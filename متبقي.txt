@@ -1,0 +1,4 @@
+1- wl test
+2- generalized version of text and image
+3- adjacency matrix
+4- more powerful architecture than MP-GNN
